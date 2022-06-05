@@ -10,7 +10,6 @@ const app = express();
 app.get('/', (req, res) => {
   res.send('Hello World');
 });
-
 app.get('/welcome', (req, res) => {
     res.send('Welcome To Docker Git Jenkins Integration');
 });
