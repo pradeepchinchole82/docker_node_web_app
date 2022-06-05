@@ -1,0 +1,17 @@
+{
+  "name": "docker_node_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "main": "server.js",  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Pradeep Chinchole <pradeepch82@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
+
+
+
